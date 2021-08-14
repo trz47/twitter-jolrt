@@ -1,0 +1,9 @@
+{
+  "_comment": "BotのAPIキーを入力",
+  "RT_bot":{
+    "CONSUMER_KEY": "",
+    "CONSUMER_SECRET": "",
+    "ACCESS_TOKEN": "",
+    "ACCESS_TOKEN_SECRET": ""
+  }
+}
